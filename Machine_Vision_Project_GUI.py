@@ -1,6 +1,5 @@
-# Machine Vision Project / Hamid Reza Heidari  / Milad Mohammadi
 
-# PHASE 5 --> Project GUI
+#--> Project GUI
 
 # Import library
 from customtkinter import *
@@ -668,4 +667,5 @@ pic_label.pack(pady=10)
 
 
 window.mainloop()
+
 
